@@ -19,7 +19,7 @@ One using an N-gram Markov Chain approach, one using LSTM, and one providing a m
 
 The classification folder contains notebooks that are used to build a classifier which was trained to distinguish rap from non-rap lyrics through the differences in words. The classifier is used to filter the best results in the generation.  
 
-The evaluation folder contains notebooks for the assessment of a human evaluation study and evaluation of the different methods through cosine similarity. 
+The evaluation folder contains notebooks for the preparation and evaluation of the human study and code to get the cosine similarity  for different test conditions.    
 
 # Download the full project with resources
 https://drive.google.com/drive/folders/1u70ncwXqr5EfsPcwD8DFNA1EFgeTvXz3?usp=sharing
