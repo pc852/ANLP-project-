@@ -13,7 +13,7 @@ The generation folder contains notebooks for the rap lyrics generation.
 
 We generated lyrics using a two-layer lstm network and a markov chain model.
 
-The classification folder contains notebooks that are used to build a classifier which...
+The classification folder contains notebooks that are used to build a classifier which was trained to distinguish rap from non-rap lyrics through the differences in words. The classifier is used to filter the best results in the generation.  
 
 The evaluation folder contains notebooks for the assesment of a human evaluation study and evaluation of the different methods through cosine similarity. 
 
